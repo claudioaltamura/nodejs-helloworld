@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "Node.js Hello World example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudioaltamura/nodejs-helloworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudioaltamura/nodejs-helloworld/issues"
+  },
+  "homepage": "https://github.com/claudioaltamura/nodejs-helloworld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
